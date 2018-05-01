@@ -1,0 +1,4 @@
+class Mindfulness extends Activity 
+{
+			
+}

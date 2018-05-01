@@ -1,0 +1,4 @@
+class Fun extends Activity 
+{
+			
+}
